@@ -11,24 +11,24 @@
 
 1. Clone this repository:
 
-   ````bash
+   ```bash
    git clone https://github.com/mardini1414/my-mini-blog.git
-   cd my-mini-blog```
+   cd my-mini-blog
 
-   ````
+   ```
 
 2. Install dependencies:
 
-   ````bash
-   npm install or yarn install```
+   ```bash
+   npm install or yarn install
 
-   ````
+   ```
 
 3. Running the server:
 
-   ````bash
-   npm run dev or yarn dev```
-   ````
+   ```bash
+   npm run dev or yarn dev
+   ```
 
 ## Project Structure:
 
